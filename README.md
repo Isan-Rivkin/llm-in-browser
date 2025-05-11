@@ -6,7 +6,7 @@ To run `npm run dev`
 
 ![alt text](image.png)
 
-**How it works: **
+**How it works:**
 
 Based on [web-llm](https://github.com/mlc-ai/web-llm) allows using LLM's in the browser easily with pre-compiled models. 
 The models are compiled to WebAssembly using [MLC LLM](https://llm.mlc.ai/).  
